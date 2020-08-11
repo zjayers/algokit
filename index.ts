@@ -37,15 +37,17 @@
  */
 
 // Performance Monitor
-export {Monitor} from './performance/monitor'
+export { Monitor } from "./performance/monitor";
 
 // Array Algorithms
-export {getMinValue} from './algorithms/array/getMinValue'
-export {getSum} from './algorithms/array/getSum'
+export { getMinValue } from "./algorithms/array/getMinValue";
+export { getSum } from "./algorithms/array/getSum";
 
 // Number Algorithms
-export {getFibAtIndex} from './algorithms/number/getFibAtIndex'
-export {isEven} from './algorithms/number/isEven'
-export {isOdd} from './algorithms/number/isOdd'
-export {isPrime} from './algorithms/number/isPrime'
-export {sumUpTo} from './algorithms/number/sumUpTo'
+export { getFibAtIndex } from "./algorithms/number/getFibAtIndex";
+export { isEven } from "./algorithms/number/isEven";
+export { isOdd } from "./algorithms/number/isOdd";
+export { isPrime } from "./algorithms/number/isPrime";
+export { sumUpTo } from "./algorithms/number/sumUpTo";
+export { isPowerOf } from "./algorithms/number/IsPowerOf";
+export { getFactorial } from "./algorithms/number/getFactorial";

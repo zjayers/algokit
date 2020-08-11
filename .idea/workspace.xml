@@ -29,7 +29,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/.nvm/versions/node/v14.5.0/lib/node_modules/prettier" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.TypeScript" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
@@ -49,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597157373352</updated>
       <workItem from="1597157375454" duration="122000" />
-      <workItem from="1597157516187" duration="15545000" />
+      <workItem from="1597157516187" duration="18157000" />
     </task>
     <servers />
   </component>
@@ -78,11 +78,11 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1092" y="442" key="#com.intellij.ide.util.MemberChooser/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597174484356" />
-    <state x="818" y="359" width="1408" height="970" key="SettingsEditor" timestamp="1597172483159">
+    <state x="818" y="359" width="1408" height="970" key="SettingsEditor" timestamp="1597178090754">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="818" y="359" width="1149" height="722" key="SettingsEditor/2560.-533.1920.1057/2560.547.1920.1057/0.0.2560.1440@0.0.2560.1440" timestamp="1597172483159" />
-    <state x="818" y="359" width="1408" height="970" key="SettingsEditor/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597171247463" />
+    <state x="818" y="359" width="1408" height="970" key="SettingsEditor/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597178090754" />
     <state x="943" y="329" width="672" height="678" key="search.everywhere.popup" timestamp="1597173907572">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>

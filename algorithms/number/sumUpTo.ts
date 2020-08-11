@@ -1,4 +1,4 @@
-import {Monitor} from "../../performance/monitor";
+import { Monitor } from "../../performance/monitor";
 
 /**
  * Takes in a single number, and returns the sum of all numbers from 0 to n
@@ -8,14 +8,13 @@ import {Monitor} from "../../performance/monitor";
  * @returns {number} - The sum of all numbers from 0 to n.
  */
 export function sumUpTo(num: number, log: boolean = false): number {
-    const mn = new Monitor();
-    log && mn.startMonitor();
+  const mn = new Monitor();
+  log && mn.startMonitor();
 
-    const result = (num / 2) * (1 + num);
+  const result = (num / 2) * (1 + num);
 
-    log && console.log(mn.stopMonitor());
+  log && console.log(mn.stopMonitor());
 
-    // Return the result
-    return result;
+  // Return the result
+  return result;
 }
-

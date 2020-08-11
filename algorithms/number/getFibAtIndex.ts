@@ -1,4 +1,4 @@
-import {Monitor} from "../../performance/monitor";
+import { Monitor } from "../../performance/monitor";
 
 /**
  * Gets the fibonacci number at the input index
@@ -8,21 +8,20 @@ import {Monitor} from "../../performance/monitor";
  * @returns {number} - The number at the index being searched for
  */
 export function getFibAtIndex(index: number, log: boolean = false): number {
-    // Start the monitor
-    const mn = new Monitor();
-    log && mn.startMonitor();
+  // Start the monitor
+  const mn = new Monitor();
+  log && mn.startMonitor();
 
-    // Create the initial array
-    const numbers: Array<number> = [1, 1];
+  // Create the initial array
+  const numbers: Array<number> = [1, 1];
 
-    // Loop through all numbers up to the given index and calculate the fibonacci numbers
-    for (let i = 2; i <= index; i++) {
-        numbers.push(numbers[i - 2] + numbers[i - 1]);
-    }
+  // Loop through all numbers up to the given index and calculate the fibonacci numbers
+  for (let i = 2; i <= index; i++) {
+    numbers.push(numbers[i - 2] + numbers[i - 1]);
+  }
 
-    // Stop the monitor and report
-    log && mn.stopMonitor();
+  // Stop the monitor and report
+  log && mn.stopMonitor();
 
-    return numbers[this];
+  return numbers[this];
 }
-

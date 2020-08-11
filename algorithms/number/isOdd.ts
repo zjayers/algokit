@@ -1,4 +1,4 @@
-import {Monitor} from "../../performance/monitor";
+import { Monitor } from "../../performance/monitor";
 
 /**
  * Determines if the input number is odd
@@ -8,14 +8,14 @@ import {Monitor} from "../../performance/monitor";
  * @returns {boolean} - True if the number is odd, false if the number is even
  */
 export function isOdd(num: number, log: boolean = false): boolean {
-    // Start the monitor
-    const mn = new Monitor();
-    log && mn.startMonitor();
+  // Start the monitor
+  const mn = new Monitor();
+  log && mn.startMonitor();
 
-    const isNumberOdd = num % 2 === 1;
+  const isNumberOdd = num % 2 === 1;
 
-    // Stop The Monitor & Report
-    log && mn.stopMonitor();
+  // Stop The Monitor & Report
+  log && mn.stopMonitor();
 
-    return isNumberOdd;
+  return isNumberOdd;
 }

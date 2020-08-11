@@ -1,4 +1,4 @@
-import {Monitor} from "../../performance/monitor";
+import { Monitor } from "../../performance/monitor";
 
 /**
  * Adds up all numbers inside of an Array in linear time
@@ -8,21 +8,20 @@ import {Monitor} from "../../performance/monitor";
  * @returns {number} - The sum of all numbers in the array.
  */
 export function getSum(numbers: [number], log: boolean = false): number {
-    // Create the monitoring tool
-    const mn = new Monitor();
-    log && mn.startMonitor();
+  // Create the monitoring tool
+  const mn = new Monitor();
+  log && mn.startMonitor();
 
-    // Determine the sum of the numbers
-    let sum = 0;
+  // Determine the sum of the numbers
+  let sum = 0;
 
-    // Loop through the numbers and add them to the sum
-    for (const number of numbers) {
-        sum += number;
-    }
+  // Loop through the numbers and add them to the sum
+  for (const number of numbers) {
+    sum += number;
+  }
 
-    // Stop the monitoring tool
-    log && mn.stopMonitor();
+  // Stop the monitoring tool
+  log && mn.stopMonitor();
 
-    return sum;
+  return sum;
 }
-
