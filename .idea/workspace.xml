@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="384db1cd-d35b-4b1a-9865-fa6a433b29a0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="docker-desktop" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="ProjectId" id="1fxQgGLwQvTQP3lnYyge9dTLtzO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/.nvm/versions/node/v14.5.0/lib/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../algokit" />
+      <recent name="$PROJECT_DIR$/Docs" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="384db1cd-d35b-4b1a-9865-fa6a433b29a0" name="Default Changelist" comment="" />
+      <created>1597157373352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597157373352</updated>
+      <workItem from="1597157375454" duration="122000" />
+      <workItem from="1597157516187" duration="8518000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3119" y="711" key="#Plugins" timestamp="1597157481273">
+      <screen x="2560" y="524" width="1920" height="1080" />
+    </state>
+    <state x="3119" y="711" key="#Plugins/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@2560.524.1920.1080" timestamp="1597157481273" />
+    <state x="975" y="348" key="#TypeScript" timestamp="1597158741607">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="975" y="348" key="#TypeScript/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597158741607" />
+    <state x="3203" y="868" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597157442564">
+      <screen x="2560" y="524" width="1920" height="1080" />
+    </state>
+    <state x="3203" y="868" key="#com.intellij.fileTypes.FileTypeChooser/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@2560.524.1920.1080" timestamp="1597157442564" />
+    <state x="818" y="359" width="1149" height="722" key="SettingsEditor" timestamp="1597162281648">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="818" y="359" width="1149" height="722" key="SettingsEditor/2560.-533.1920.1057/2560.547.1920.1057/0.0.2560.1440@0.0.2560.1440" timestamp="1597162281648" />
+    <state x="818" y="359" key="SettingsEditor/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597158769932" />
+    <state x="943" y="329" width="672" height="678" key="search.everywhere.popup" timestamp="1597164632420">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="943" y="329" width="672" height="678" key="search.everywhere.popup/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597164632420" />
+  </component>
+</project>
