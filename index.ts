@@ -36,10 +36,16 @@
  * - > O (2^n).......Exponential time
  */
 
-
-// performance Modules
+// Performance Monitor
 export {Monitor} from './performance/monitor'
 
-// Algorithm Modules
-export {SumUp} from './algorithms/sumUp';
+// Array Algorithms
+export {getMinValue} from './algorithms/array/getMinValue'
+export {getSum} from './algorithms/array/getSum'
 
+// Number Algorithms
+export {getFibAtIndex} from './algorithms/number/getFibAtIndex'
+export {isEven} from './algorithms/number/isEven'
+export {isOdd} from './algorithms/number/isOdd'
+export {isPrime} from './algorithms/number/isPrime'
+export {sumUpTo} from './algorithms/number/sumUpTo'

@@ -29,11 +29,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/.nvm/versions/node/v14.5.0/lib/node_modules/prettier" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../algokit/algorithms/number" />
+      <recent name="$PROJECT_DIR$/../algokit/algorithms/array" />
       <recent name="$PROJECT_DIR$/../algokit" />
       <recent name="$PROJECT_DIR$/Docs" />
     </key>
@@ -47,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597157373352</updated>
       <workItem from="1597157375454" duration="122000" />
-      <workItem from="1597157516187" duration="8518000" />
+      <workItem from="1597157516187" duration="15545000" />
     </task>
     <servers />
   </component>
@@ -63,18 +65,27 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="975" y="348" key="#TypeScript/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597158741607" />
-    <state x="3203" y="868" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597157442564">
-      <screen x="2560" y="524" width="1920" height="1080" />
+    <state x="1258" y="647" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1597170990171">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
+    <state x="1258" y="647" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597170990171" />
+    <state x="857" y="459" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597170549245">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="857" y="459" key="#com.intellij.fileTypes.FileTypeChooser/2560.-533.1920.1057/2560.547.1920.1057/0.0.2560.1440@0.0.2560.1440" timestamp="1597170549245" />
     <state x="3203" y="868" key="#com.intellij.fileTypes.FileTypeChooser/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@2560.524.1920.1080" timestamp="1597157442564" />
-    <state x="818" y="359" width="1149" height="722" key="SettingsEditor" timestamp="1597162281648">
+    <state x="1092" y="442" key="#com.intellij.ide.util.MemberChooser" timestamp="1597174484356">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="818" y="359" width="1149" height="722" key="SettingsEditor/2560.-533.1920.1057/2560.547.1920.1057/0.0.2560.1440@0.0.2560.1440" timestamp="1597162281648" />
-    <state x="818" y="359" key="SettingsEditor/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597158769932" />
-    <state x="943" y="329" width="672" height="678" key="search.everywhere.popup" timestamp="1597164632420">
+    <state x="1092" y="442" key="#com.intellij.ide.util.MemberChooser/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597174484356" />
+    <state x="818" y="359" width="1408" height="970" key="SettingsEditor" timestamp="1597172483159">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="943" y="329" width="672" height="678" key="search.everywhere.popup/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597164632420" />
+    <state x="818" y="359" width="1149" height="722" key="SettingsEditor/2560.-533.1920.1057/2560.547.1920.1057/0.0.2560.1440@0.0.2560.1440" timestamp="1597172483159" />
+    <state x="818" y="359" width="1408" height="970" key="SettingsEditor/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597171247463" />
+    <state x="943" y="329" width="672" height="678" key="search.everywhere.popup" timestamp="1597173907572">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="943" y="329" width="672" height="678" key="search.everywhere.popup/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597173907572" />
   </component>
 </project>
