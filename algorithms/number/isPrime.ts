@@ -1,17 +1,10 @@
-import { Monitor } from "../../performance/monitor";
-
 /**
  * Check for primality of a number
  * @timeComplexity O(n) - Linear Time
  * @param {number} num = The number to check if it is a prime number or not
- * @param {boolean} [log] - Log the time monitor to the console?
  * @returns {boolean} - True if the number is a prime number, false if the number is not a prime number
  */
-export function isPrime(num: number, log: boolean = false): boolean {
-  // Start the monitor
-  const mn = new Monitor();
-  log && mn.startMonitor();
-
+export function isPrime(num: number): boolean {
   // Check if number is integer.
   if (num % 1 !== 0) {
     return false;
@@ -39,9 +32,6 @@ export function isPrime(num: number, log: boolean = false): boolean {
       return false;
     }
   }
-
-  // Stop The Monitor & Report
-  log && mn.stopMonitor();
 
   return true;
 }

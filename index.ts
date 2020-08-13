@@ -36,10 +36,12 @@
  * - > O (2^n).......Exponential time
  */
 
-// Performance Monitor
-export { Monitor } from "./performance/monitor";
+// Performance Timer
+export { Timer } from "./performance/timer";
+export { Counter } from "./performance/counter";
 
 // Array Algorithms
+export { getMaxValue } from "./algorithms/array/getMaxValue";
 export { getMinValue } from "./algorithms/array/getMinValue";
 export { getSum } from "./algorithms/array/getSum";
 
@@ -51,3 +53,4 @@ export { isPrime } from "./algorithms/number/isPrime";
 export { sumUpTo } from "./algorithms/number/sumUpTo";
 export { isPowerOf } from "./algorithms/number/IsPowerOf";
 export { getFactorial } from "./algorithms/number/getFactorial";
+export { getFactorialRecursively } from "./algorithms/number/getFactorial";
