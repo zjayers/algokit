@@ -62,3 +62,7 @@ export { binarySearch } from "./algorithms/search/binarySearch";
 
 // ---- Sorting Algorithms ---- //
 export { bubbleSort } from "./algorithms/sort/bubbleSort";
+export { mergeSort } from "./algorithms/sort/mergeSort";
+export { quickSort } from "./algorithms/sort/quickSort";
+
+// ---- Data Structures ---- //

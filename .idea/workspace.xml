@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="384db1cd-d35b-4b1a-9865-fa6a433b29a0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/mergeSort.ts" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sort/mergeSort.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,7 @@
       <workItem from="1597261143982" duration="69000" />
       <workItem from="1597261216489" duration="152000" />
       <workItem from="1597333165691" duration="19045000" />
-      <workItem from="1597420105934" duration="2162000" />
+      <workItem from="1597420105934" duration="2540000" />
     </task>
     <servers />
   </component>
