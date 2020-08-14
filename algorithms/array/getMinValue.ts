@@ -5,5 +5,5 @@
  * @returns {number} - The minimum value in the array
  */
 export function getMinValue(numbers: [number]): number {
-  return Math.min(...numbers);
+    return Math.min(...numbers);
 }

@@ -6,19 +6,19 @@
  * @returns {number} - The minimum value in the array
  */
 export function isPowerOf(num: number, divider: number): boolean {
-  if (divider === 1) {
-    return true;
-  }
-
-  let dividedNumber = num;
-
-  while (dividedNumber !== 1) {
-    if (dividedNumber % divider !== 0) {
-      return false;
+    if (divider === 1) {
+        return true;
     }
 
-    dividedNumber = dividedNumber / divider;
-  }
+    let dividedNumber = num;
 
-  return true;
+    while (dividedNumber !== 1) {
+        if (dividedNumber % divider !== 0) {
+            return false;
+        }
+
+        dividedNumber = dividedNumber / divider;
+    }
+
+    return true;
 }

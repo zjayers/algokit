@@ -5,22 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="384db1cd-d35b-4b1a-9865-fa6a433b29a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/performance/timer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/saveactions_settings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/array/getMaxValue.ts" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/array/getMaxValue.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/array/getMinValue.ts" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/array/getMinValue.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/array/getSum.ts" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/array/getSum.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/number/IsPowerOf.ts" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/number/IsPowerOf.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/number/getFactorial.ts" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/number/getFactorial.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algorithms/number/getFibAtIndex.ts" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/number/getFibAtIndex.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/number/isEven.ts" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/number/isEven.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/number/isOdd.ts" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/number/isOdd.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/number/isPrime.ts" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/number/isPrime.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/number/sumUpTo.ts" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/number/sumUpTo.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/performance/monitor.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +30,9 @@
     <option name="namespace" value="default" />
   </component>
   <component name="ProjectId" id="1fxQgGLwQvTQP3lnYyge9dTLtzO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,7 +44,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/.nvm/versions/node/v14.5.0/lib/node_modules/prettier" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.TypeScript" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
@@ -77,7 +69,7 @@
       <workItem from="1597248258407" duration="830000" />
       <workItem from="1597261143982" duration="69000" />
       <workItem from="1597261216489" duration="152000" />
-      <workItem from="1597333165691" duration="3854000" />
+      <workItem from="1597333165691" duration="18684000" />
     </task>
     <servers />
   </component>
@@ -89,10 +81,10 @@
       <screen x="2560" y="524" width="1920" height="1080" />
     </state>
     <state x="3119" y="711" key="#Plugins/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@2560.524.1920.1080" timestamp="1597157481273" />
-    <state x="975" y="348" key="#TypeScript" timestamp="1597158741607">
+    <state x="975" y="348" key="#TypeScript" timestamp="1597350594288">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="975" y="348" key="#TypeScript/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597158741607" />
+    <state x="975" y="348" key="#TypeScript/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597350594288" />
     <state x="1258" y="647" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1597170990171">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -106,14 +98,14 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1092" y="442" key="#com.intellij.ide.util.MemberChooser/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597174484356" />
-    <state x="818" y="359" width="1408" height="970" key="SettingsEditor" timestamp="1597343802868">
+    <state x="818" y="359" width="1408" height="970" key="SettingsEditor" timestamp="1597349652964">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="818" y="359" width="1149" height="722" key="SettingsEditor/2560.-533.1920.1057/2560.547.1920.1057/0.0.2560.1440@0.0.2560.1440" timestamp="1597172483159" />
-    <state x="818" y="359" width="1408" height="970" key="SettingsEditor/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597343802868" />
-    <state x="943" y="329" width="672" height="678" key="search.everywhere.popup" timestamp="1597333238224">
+    <state x="818" y="359" width="1408" height="970" key="SettingsEditor/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597349652964" />
+    <state x="943" y="329" width="672" height="678" key="search.everywhere.popup" timestamp="1597349645269">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="943" y="329" width="672" height="678" key="search.everywhere.popup/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597333238224" />
+    <state x="943" y="329" width="672" height="678" key="search.everywhere.popup/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597349645269" />
   </component>
 </project>

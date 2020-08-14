@@ -36,17 +36,18 @@
  * - > O (2^n).......Exponential time
  */
 
-// Performance Timer
+// ---- Performance Timer ---- //
 export { Timer } from "./performance/timer";
 export { Counter } from "./performance/counter";
 
-// Array Algorithms
+// ---- Array Algorithms ---- //
 export { getMaxValue } from "./algorithms/array/getMaxValue";
 export { getMinValue } from "./algorithms/array/getMinValue";
 export { getSum } from "./algorithms/array/getSum";
 
-// Number Algorithms
+// ---- Number Algorithms ---- //
 export { getFibAtIndex } from "./algorithms/number/getFibAtIndex";
+export { getMemoizedFibAtIndex } from "./algorithms/number/getFibAtIndex";
 export { isEven } from "./algorithms/number/isEven";
 export { isOdd } from "./algorithms/number/isOdd";
 export { isPrime } from "./algorithms/number/isPrime";
@@ -54,3 +55,10 @@ export { sumUpTo } from "./algorithms/number/sumUpTo";
 export { isPowerOf } from "./algorithms/number/IsPowerOf";
 export { getFactorial } from "./algorithms/number/getFactorial";
 export { getFactorialRecursively } from "./algorithms/number/getFactorial";
+
+// ---- Search Algorithms ----//
+export { linearSearch } from "./algorithms/search/linearSearch";
+export { binarySearch } from "./algorithms/search/binarySearch";
+
+// ---- Sorting Algorithms ---- //
+export { bubbleSort } from "./algorithms/sort/bubbleSort";

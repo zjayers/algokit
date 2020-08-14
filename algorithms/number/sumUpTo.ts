@@ -5,5 +5,5 @@
  * @returns {number} - The sum of all numbers from 0 to n.
  */
 export function sumUpTo(num: number): number {
-  return (num / 2) * (1 + num);
+    return (num / 2) * (1 + num);
 }

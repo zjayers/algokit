@@ -5,5 +5,5 @@
  * @returns {number} - The maximum value in the array
  */
 export function getMaxValue(numbers: [number]): number {
-  return Math.max(...numbers);
+    return Math.max(...numbers);
 }

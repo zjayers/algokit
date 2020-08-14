@@ -5,13 +5,13 @@
  * @returns {number} - The combined factorial of the input number
  */
 export function getFactorial(num: number): number {
-  let result = 1;
+    let result = 1;
 
-  for (let i = 2; i <= num; i++) {
-    result *= i;
-  }
+    for (let i = 2; i <= num; i++) {
+        result *= i;
+    }
 
-  return result;
+    return result;
 }
 
 /**
@@ -21,10 +21,10 @@ export function getFactorial(num: number): number {
  * @returns {number} - The combined factorial of the input number
  */
 export function getFactorialRecursively(num: number): number {
-  // Base Case - Exit Condition
-  if (num === 1) {
-    return 1;
-  }
+    // Base Case - Exit Condition
+    if (num === 1) {
+        return 1;
+    }
 
-  return num * getFactorialRecursively(num - 1);
+    return num * getFactorialRecursively(num - 1);
 }

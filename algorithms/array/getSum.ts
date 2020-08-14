@@ -5,13 +5,13 @@
  * @returns {number} - The sum of all numbers in the array.
  */
 export function getSum(numbers: [number]): number {
-  // Determine the sum of the numbers
-  let sum = 0;
+    // Determine the sum of the numbers
+    let sum = 0;
 
-  // Loop through the numbers and add them to the sum
-  for (const number of numbers) {
-    sum += number;
-  }
+    // Loop through the numbers and add them to the sum
+    for (const number of numbers) {
+        sum += number;
+    }
 
-  return sum;
+    return sum;
 }
