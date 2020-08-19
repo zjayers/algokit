@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="384db1cd-d35b-4b1a-9865-fa6a433b29a0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/number/isEven.ts" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/number/isEven.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +44,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/.nvm/versions/node/v14.5.0/lib/node_modules/prettier" />
     <property name="run.prettier.on.save" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
@@ -68,7 +69,9 @@
       <workItem from="1597261143982" duration="69000" />
       <workItem from="1597261216489" duration="152000" />
       <workItem from="1597333165691" duration="19045000" />
-      <workItem from="1597420105934" duration="2540000" />
+      <workItem from="1597420105934" duration="2759000" />
+      <workItem from="1597679008881" duration="1515000" />
+      <workItem from="1597794845884" duration="3797000" />
     </task>
     <servers />
   </component>
@@ -97,14 +100,16 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1092" y="442" key="#com.intellij.ide.util.MemberChooser/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597174484356" />
-    <state x="818" y="359" width="1408" height="970" key="SettingsEditor" timestamp="1597349652964">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state x="3174" y="793" width="1408" height="970" key="SettingsEditor" timestamp="1597681013128">
+      <screen x="2560" y="524" width="1920" height="1080" />
     </state>
+    <state x="3174" y="793" key="SettingsEditor/2560.-533.1920.1057/2560.524.1920.1080/65.23.2495.1417@2560.524.1920.1080" timestamp="1597681013128" />
     <state x="818" y="359" width="1149" height="722" key="SettingsEditor/2560.-533.1920.1057/2560.547.1920.1057/0.0.2560.1440@0.0.2560.1440" timestamp="1597172483159" />
     <state x="818" y="359" width="1408" height="970" key="SettingsEditor/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597349652964" />
-    <state x="943" y="329" width="672" height="678" key="search.everywhere.popup" timestamp="1597349645269">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state x="3267" y="771" width="504" height="509" key="search.everywhere.popup" timestamp="1597679016262">
+      <screen x="2560" y="524" width="1920" height="1080" />
     </state>
     <state x="943" y="329" width="672" height="678" key="search.everywhere.popup/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597349645269" />
+    <state x="3267" y="771" width="504" height="509" key="search.everywhere.popup/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@2560.524.1920.1080" timestamp="1597679016262" />
   </component>
 </project>
