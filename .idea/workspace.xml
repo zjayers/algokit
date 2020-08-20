@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ad5690a-e7a5-4662-aafa-31383f06f3f9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ts/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ts/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts/structures/linkedList.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ts/structures/linkedList.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="docker-desktop" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="ProjectId" id="1gMjowHZjpnfpJJMVM8WezCiRGt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/.nvm/versions/node/v14.5.0/lib/node_modules/prettier" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ad5690a-e7a5-4662-aafa-31383f06f3f9" name="Default Changelist" comment="" />
+      <created>1597931534047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597931534047</updated>
+      <workItem from="1597931535378" duration="6101000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1027" y="555" key="#Notifications" timestamp="1597931562048">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1027" y="555" key="#Notifications/2560.-533.1920.1057/2560.547.1920.1057/0.0.2560.1440@0.0.2560.1440" timestamp="1597931562048" />
+    <state x="868" y="462" key="IDE.errors.dialog" timestamp="1597932999178">
+      <screen x="53" y="0" width="2507" height="1440" />
+    </state>
+    <state x="868" y="462" key="IDE.errors.dialog/2560.-533.1920.1057/2560.547.1920.1057/53.0.2507.1440@53.0.2507.1440" timestamp="1597932999178" />
+    <state x="826" y="131" width="982" height="950" key="SettingsEditor" timestamp="1597936614700">
+      <screen x="53" y="0" width="2507" height="1440" />
+    </state>
+    <state x="789" y="131" width="982" height="950" key="SettingsEditor/2560.-533.1920.1057/2560.547.1920.1057/0.0.2560.1440@0.0.2560.1440" timestamp="1597931896186" />
+    <state x="826" y="131" key="SettingsEditor/2560.-533.1920.1057/2560.547.1920.1057/53.0.2507.1440@53.0.2507.1440" timestamp="1597936614700" />
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1597936542652">
+      <screen x="53" y="0" width="2507" height="1440" />
+    </state>
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup/2560.-533.1920.1057/2560.547.1920.1057/53.0.2507.1440@53.0.2507.1440" timestamp="1597936542652" />
+    <state x="1010" y="633" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1597933003823">
+      <screen x="53" y="0" width="2507" height="1440" />
+    </state>
+    <state x="1010" y="633" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/2560.-533.1920.1057/2560.547.1920.1057/53.0.2507.1440@53.0.2507.1440" timestamp="1597933003823" />
+  </component>
+</project>

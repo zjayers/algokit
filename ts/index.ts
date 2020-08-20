@@ -68,3 +68,4 @@ export { quickSort } from "./algorithms/sort/quickSort";
 // ---- Data Structures ---- //
 export { Queue } from "./structures/queue";
 export { Stack } from "./structures/stack";
+export { LinkedList } from "./structures/linkedList";
