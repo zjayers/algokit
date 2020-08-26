@@ -1,15 +1,15 @@
 ---- Class ----
-- Priority Queue
+- Min Heap
 
 ---- Size ----
 - Get Size
 
 ---- Methods ----
-- Peek Front
-- Peek End
-- Push
-- Pop
-- Is Empty
+- Insert
+- Get Root
+- Extract Root
+- Get Max Leaf
+- Sort
 
 ---- Iteration ----
 - Values
@@ -21,6 +21,9 @@
 - Every
 - Each
 - Find
+
+---- Conversion ----
+- To Min Heap
 
 ---- Utility ----
 - Clear

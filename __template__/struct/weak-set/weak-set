@@ -1,18 +1,18 @@
 ---- Class ----
-- Priority Queue
+- Weak-Set
 
 ---- Size ----
 - Get Size
 
 ---- Methods ----
-- Peek Front
-- Peek End
-- Push
-- Pop
-- Is Empty
+- Add
+- Has
+- Remove
 
 ---- Iteration ----
+- Keys
 - Values
+- Entries
 - Map
 - Reduce
 - Filter
